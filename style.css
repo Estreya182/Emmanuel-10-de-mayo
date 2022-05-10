@@ -1,0 +1,11 @@
+body{
+text-align:center;
+background-color: rgb(243, 203, 233);
+  
+}  
+
+#album
+{
+  width:450px;
+  border-radius:30px;
+}
